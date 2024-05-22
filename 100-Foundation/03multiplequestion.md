@@ -1,6 +1,6 @@
 <div style="margin-right: 50px; margin-left: 30px;">
 
-# Create a metadata classifier
+# Task 3: Create a metadata classifier
 
 ## Scope
 
