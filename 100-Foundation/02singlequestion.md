@@ -1,6 +1,6 @@
 <div style="margin-right: 50px; margin-left: 30px;">
 
-# Task 1: DSPM: Defining Custom Classifiers
+# Task 2: DSPM: Defining Custom Classifiers
 
 We’re going to work through several custom classifiers to develop an understanding of what Wiz can detect and how to configure the various rule tyles. We use several scenarios for background use cases of a data match or metadata match rule. We also learn to leverage findings from these rules to create controls that solve more complex use cases. So let’s get started!
 
