@@ -1,6 +1,6 @@
 <div style="margin-right: 50px; margin-left: 30px;">
 
-# Task: CI/CD Code Scanning
+# Task 4: Task: CI/CD Code Scanning
 ---
 
 In this task, we will simulate part of a CI/CD pipeline where developers commit code to a GitHub repository. The Wiz GitHub Connector is able to scan for IaC misconfigurations, Vulnerabilities, and Secrets in committed codes.
