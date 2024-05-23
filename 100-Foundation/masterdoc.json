@@ -14,7 +14,7 @@
           {
             "UnlockDependency": "Validations",
             "UnlockCriteria": "Execution",
-            "DependentValidations": ["8c9b9eff-22bd-4478-97f7-8f875770b72d"]
+            "DependentValidations": ["7586c19d-30a7-4199-8244-312ad87951cb", "8c9b9eff-22bd-4478-97f7-8f875770b72d"]
           }
         ]
       },
