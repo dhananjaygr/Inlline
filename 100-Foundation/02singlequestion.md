@@ -23,5 +23,3 @@ You work for a military contractor that is required to tag all content with an a
 They also have a process for identifying any in progress patent applications. They wish to know where any such files are stored so they can ensure adequate protections are in place.
 </div>
 
-Please answer the following question
-<question source="https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page2/question-01.md" /> 
