@@ -14,49 +14,24 @@
           {
             "UnlockDependency": "Validations",
             "UnlockCriteria": "Execution",
-            "DependentValidations": ["7586c19d-30a7-4199-8244-312ad87951cb", "8c9b9eff-22bd-4478-97f7-8f875770b72d"]
+            "DependentValidations": [
+              "7586c19d-30a7-4199-8244-312ad87951cb",
+              "8c9b9eff-22bd-4478-97f7-8f875770b72d"
+            ]
           }
         ]
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/03multiplequestion.md",
-        "Order": 3,
-        "UnlockingRules": [
-          {
-            "UnlockDependency": "Questions",
-            "DependentQuestions": [
-              "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page2/question-01.md"
-            ],
-            "UnlockCriteria": "Answered"
-          }
-        ]
+        "Order": 3
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/04groupedquestions.md",
-        "Order": 4,
-        "UnlockingRules": [
-          {
-            "UnlockDependency": "Questions",
-            "DependentQuestions": [
-              "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page3/question-01.md"
-            ],
-            "UnlockCriteria": "AnsweredCorrectly"
-          }
-        ]
+        "Order": 4
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/05endpage.md",
-        "Order": 5,
-        "UnlockingRules": [
-          {
-            "UnlockDependency": "GroupedQuestions",
-            "DependentQuestions": [
-              "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page4/page4-metadata.md"
-            ],
-            "UnlockCriteria": "Score",
-            "UnlockPercentageThreshold": 50
-          }
-        ]
+        "Order": 5
       }
     ]
   }
