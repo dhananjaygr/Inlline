@@ -58,6 +58,3 @@ Once the rule is defined and the bucket is rescanned, we will see some findings 
 <!-- ![Metadata Match Properties](img/meta-data-match-criteria.png) -->
 
 9. Click **Create rule** to save the rule in the Wiz tenant.
-
-Please answer the following question
-<question source="https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page3/question-01.md" /> 
