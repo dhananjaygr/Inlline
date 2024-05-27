@@ -12,16 +12,8 @@
         "Order": 2
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/03multiplequestion.md",
-        "Order": 3
-      },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/04groupedquestions.md",
-        "Order": 4
-      },
-      {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/05endpage.md",
-        "Order": 5
+        "Order": 3
       }
     ]
   }
