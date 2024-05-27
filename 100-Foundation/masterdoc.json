@@ -23,15 +23,43 @@
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/03multiplequestion.md",
-        "Order": 3
+        "Order": 3,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+              "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page2/question-01.md"
+            ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/04groupedquestions.md",
-        "Order": 4
+        "Order": 4,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [
+              "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page3/question-01.md"
+            ],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/05endpage.md",
-        "Order": 5
+        "Order": 5,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "GroupedQuestions",
+            "DependentQuestions": [
+              "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/questions/Page4/page4-metadata.md"
+            ],
+            "UnlockCriteria": "Score",
+            "UnlockPercentageThreshold": 50
+          }
+        ]
       }
     ]
   }
