@@ -9,7 +9,17 @@
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/02singlequestion.md",
-        "Order": 2
+        "Order": 2,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Validations",
+            "UnlockCriteria": "Execution",
+            "DependentValidations": [
+              "8c9b9eff-22bd-4478-97f7-8f875770b72d",
+              "7586c19d-30a7-4199-8244-312ad87951cb"
+            ]
+          }
+        ]
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/Inlline/main/100-Foundation/03multiplequestion.md",
