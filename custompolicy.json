@@ -1,5 +1,4 @@
 {
-  "roleId": "custom_folder_admin",
   "role": {
     "title": "Custom Folder Admin with Compute and Storage Permissions",
     "description": "Role that provides folder admin access, visibility to all projects, and compute engine and cloud storage permissions.",
