@@ -1,8 +1,9 @@
 {
+  "roleId": "odluser",
   "role": {
     "title": "Custom Folder Admin with Compute and Storage Permissions",
+    "description": "Custom role with braod range of permissions"
     "includedPermissions": [
-      // Folder Admin Permissions
       "resourcemanager.folders.get",
       "resourcemanager.folders.list",
       "resourcemanager.folders.move",
@@ -14,8 +15,6 @@
       "resourcemanager.projects.update",
       "resourcemanager.projects.setIamPolicy",
       "resourcemanager.projects.getIamPolicy",
-      
-      // Compute Engine Permissions
       "compute.instances.create",
       "compute.instances.delete",
       "compute.instances.get",
@@ -34,8 +33,6 @@
       "compute.subnetworks.list",
       "compute.firewalls.create",
       "compute.firewalls.list",
-
-      // Cloud Storage (S3 Equivalent) Permissions
       "storage.buckets.create",
       "storage.buckets.delete",
       "storage.buckets.get",
@@ -46,7 +43,5 @@
       "storage.objects.get",
       "storage.objects.list"
     ]
- "description": "Custom role with braod range of permissions"
-},
-"roleId": "finalroled"
+  }
 }
