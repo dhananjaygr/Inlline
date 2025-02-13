@@ -2,7 +2,7 @@
   "roleId": "odluser",
   "role": {
     "title": "Custom Folder Admin with Compute and Storage Permissions",
-    "description": "Custom role with braod range of permissions"
+    "description": "Custom role with braod range of permissions",
     "includedPermissions": [
       "resourcemanager.folders.get",
       "resourcemanager.folders.list",
