@@ -47,5 +47,7 @@
       "storage.objects.get",
       "storage.objects.list"
     ]
-  }
+ "description": "Custom role with braod range of permissions"
+},
+"roleId": "finalroled"
 }
